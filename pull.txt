@@ -1,0 +1,6 @@
+docker pull debian:jessie
+docker pull golang:1.6 
+docker pull php:7-alpine
+docker pull wordpress:latest
+docker pull mysql:5.7
+
